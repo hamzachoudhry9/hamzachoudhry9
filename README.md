@@ -13,8 +13,6 @@ MS Data Science @ ASU. Applied analytics and ML using Python, SQL, Power BI, and
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="SQL / PostgreSQL" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="Pandas" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" />
 </p>
 
@@ -40,4 +38,8 @@ MS Data Science @ ASU. Applied analytics and ML using Python, SQL, Power BI, and
 To be added.
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/mohammad-hamza-choudhry-a27b60169/
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-hamza-choudhry-a27b60169/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
