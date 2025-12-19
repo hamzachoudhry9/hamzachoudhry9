@@ -45,7 +45,7 @@ To be added.
 
 ## Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hamza-choudhry-a27b60169/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" alt="LinkedIn" />
   </a>
