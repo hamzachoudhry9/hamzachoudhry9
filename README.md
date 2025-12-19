@@ -44,8 +44,10 @@ MS Data Science @ ASU. Applied analytics and ML using Python, SQL, Power BI, and
 To be added.
 
 ## Connect
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hamza-choudhry-a27b60169/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" alt="LinkedIn" />
   </a>
 </p>
+
