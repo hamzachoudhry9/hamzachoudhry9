@@ -9,47 +9,45 @@ MS Data Science @ ASU. Applied analytics and ML using Python, SQL, Power BI, and
 
 ## Skill set
 <p align="left">
-  <!-- Core DS / Analytics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="34" alt="NumPy" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="Pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="34" alt="Matplotlib" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" />
+  <!-- Core DS / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34"/>
 </p>
 
 <p align="left">
-  <!-- Data / SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
+</p>
+
+<p align="left">
+  <!-- BI / Analytics ICONS (images, not text) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
 </p>
 
 <p align="left">
   <!-- Workflow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34"/>
 </p>
 
-<p align="left">
-  <!-- BI / Analytics badges -->
-  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel%20%2F%20Power%20Query-111111?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel / Power Query" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
-</p>
 
 ## Featured projects
 1) Loan Approval Prediction (multi-model benchmarking)  
