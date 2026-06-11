@@ -31,11 +31,11 @@ MS Data Science @ ASU. Building ML systems, LLM agents, and data pipelines using
 2) Adaptive LLM Stress Testing Agent (Mistral-7B, LLaMA-3-8B, RAG, UCB1)  
    https://github.com/hamzachoudhry9/adaptive-llm-stress-testing
 
-3) Collaborative Filtering Recommender System  
-   https://github.com/hamzachoudhry9/Collaborative-Filtering-Recommender-System
-
-4) Reasoning Capabilities in Discrete Diffusion Language Models  
+3) Reasoning Capabilities in Discrete Diffusion Language Models  
    https://github.com/hamzachoudhry9/Reasoning-Capabilities-in-Diffusion-LLMs-feature
+
+4) Collaborative Filtering Recommender System  
+   https://github.com/hamzachoudhry9/Collaborative-Filtering-Recommender-System
 
 5) Loan Approval Prediction (multi-model benchmarking)  
    https://github.com/hamzachoudhry9/loan-approval-multi-model-benchmarking
